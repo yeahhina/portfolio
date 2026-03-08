@@ -35,11 +35,4 @@ These are some screenshots of the wireframes:
 
 ![wireframes.png](https://i.postimg.cc/J7FFSq7x/wireframes.png)
 
-Thanks to the collaboration with the deployment and authentication team at Kingston University, the project was successfully deployed! Try it yourself!
-[Live Website](https://appfactory.cseconnect.org/seat/)
-[CSV File](https://drive.google.com/file/d/1V_otPWjjmxPiB6I2AH-cP498ayS8G4HT/view?usp=sharing)
 [GitHub](https://github.com/yeahhina/SeATs)
-
-## Additional Notes
-
-- To test the website, create an account and download the CSV file.

@@ -10,12 +10,12 @@
     ],
     "links": [
       {
-        "name": "Learn More",
-        "link": "/data/seats.md"
+        "name": "GitHub",
+        "link": "https://github.com/yeahhina/SEAtS"
       },
       {
-        "name": "Live Website",
-        "link": "https://appfactory.cseconnect.org/seat/"
+        "name": "Learn More",
+        "link": "/data/seats.md"
       }
     ]
   },

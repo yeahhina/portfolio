@@ -10,18 +10,4 @@
 
 div.layout {
   background: rgb(255, 255, 255);
-
-  main {
-    padding: 0px 100px 0px 100px;
-  }
-  @media (max-width: 880px) {
-    main {
-      padding: 0px 50px 0px 50px;
-    }
-  }
-  @media (max-width: 500px) {
-    main {
-      padding: 0px 10px 0px 10px;
-    }
-  }
 }

@@ -1,4 +1,3 @@
-// placeholder
 import "./contactMe.scss";
 import linkedin from "./../../assets/linkedin.png";
 import github from "./../../assets/github.png";
@@ -33,7 +32,7 @@ function ContactMe() {
   return (
     <div className="contactMe">
       <h1 id="title">
-        Contact Me <hr class="line" />
+        CONTACT ME <hr class="line" />
       </h1>
       <div className="itemsContainer">
         <div className="left">

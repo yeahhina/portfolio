@@ -3,7 +3,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-
+  overflow: hidden;
+  width: 100%;
   .itemsContainer {
     display: flex;
     flex-direction: column;
@@ -11,6 +12,9 @@
     justify-content: center;
     gap: 60px;
     width: 100%;
+    overflow: hidden;
+    padding: 0px 50px 0px 50px;
+
     #title {
       display: flex;
       font-size: 24px;
@@ -24,14 +28,15 @@
         width: 50%;
       }
     }
-
     .projectsCardsContainer {
       display: flex;
-      overflow: scroll;
+      overflow-x: auto;
+      overflow-y: hidden;
       width: 100%;
+      max-width: 100%;
       gap: 24px;
       padding-bottom: 20px;
-
+      box-sizing: border-box;
       * {
         flex-shrink: 0;
       }
@@ -43,7 +48,7 @@
     padding-left: 10px;
     scroll-snap-type: x mandatory;
     * {
-      scroll-snap-align: center; /* each item aligns to center */
+      scroll-snap-align: center;
     }
   }
 }

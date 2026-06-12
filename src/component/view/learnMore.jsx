@@ -8,7 +8,6 @@ function LearnMore() {
   const navigate = useNavigate();
   const location = useLocation();
   const file = location.state || {};
-  console.log(file);
 
   useEffect(() => {
     if (!file.mdFile) return;

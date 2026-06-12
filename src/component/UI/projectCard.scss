@@ -7,7 +7,6 @@
   border-radius: 10px;
   border: 2px solid #000;
   width: 400px;
-  height: 550px;
 
   padding: 20px 0px 20px 0px;
 
@@ -40,9 +39,9 @@
       }
     }
   }
-  @media (max-width: 500px) {
+  @media (max-width: 600px) {
     width: 350px;
-    height: 550px;
+    min-height: 60%;
     padding: 10px;
     p {
       width: 100%;

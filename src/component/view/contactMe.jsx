@@ -1,3 +1,4 @@
+// placeholder
 import "./contactMe.scss";
 import linkedin from "./../../assets/linkedin.png";
 import github from "./../../assets/github.png";

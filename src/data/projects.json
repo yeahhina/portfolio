@@ -25,8 +25,7 @@
     "technologies_used": [
       "React Native",
       "React Native Paper",
-      "Expo Camera",
-      "Expo Sensors",
+      "Expo Camera, Expo Sensors",
       "React Native Maps"
     ],
     "links": [
@@ -37,6 +36,27 @@
       {
         "name": "Learn More",
         "link": "/data/geoquest.md"
+      }
+    ]
+  },
+  {
+    "name": "Habit Tracker",
+    "description": "A native Android mobile application developed in Kotlin to help users build and maintain positive habits through daily tracking and wellbeing activities. The app allows users to create, manage, and monitor habits, view progress summaries, and receive meaningful insights into their routines.",
+    "technologies_used": [
+      "Kotlin",
+      "Jetpack Compose, Material Design 3",
+      "Room Database",
+      "Android Studio",
+      "Material Design 3"
+    ],
+    "links": [
+      {
+        "name": "GitHub",
+        "link": "https://github.com/yeahhina/habittracker"
+      },
+      {
+        "name": "Learn More",
+        "link": "/data/habitTracker.md"
       }
     ]
   },

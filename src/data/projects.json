@@ -20,27 +20,26 @@
     ]
   },
   {
-  "name": "GeoQuest",
-  "description": "A location-based mobile application inspired by geocaching that allows users to discover and unlock virtual caches by visiting real-world locations. The app uses GPS and mobile sensors to create an interactive treasure hunt experience, enabling users to locate caches, unlock them when within range, and track their progress through persistent data storage. Developed using an Agile workflow with version control and team collaboration.",
-  "technologies_used": [
-    "React Native",
-    "React Native Paper",
-    "Expo Camera",
-    "Expo Sensors",
-    "React Native Maps",
-    "Cloudinary"
+    "name": "GeoQuest",
+    "description": "A location-based mobile application inspired by geocaching that allows users to discover and unlock virtual caches by visiting real-world locations. The app uses GPS and mobile sensors to create an interactive treasure hunt experience, enabling users to locate caches, unlock them when within range, and track their progress through persistent data storage. ",
+    "technologies_used": [
+      "React Native",
+      "React Native Paper",
+      "Expo Camera",
+      "Expo Sensors",
+      "React Native Maps"
     ],
-  "links": [
-    {
-      "name": "GitHub",
-      "link": "https://github.com/yeahhina/geoquest"
-    },
-    {
-      "name": "Learn More",
-      "link": "/data/geoquest.md"
-    }
-  ]
-},
+    "links": [
+      {
+        "name": "GitHub",
+        "link": "https://github.com/yeahhina/geoquest"
+      },
+      {
+        "name": "Learn More",
+        "link": "/data/geoquest.md"
+      }
+    ]
+  },
   {
     "name": "PicMe",
     "description": "A React-based web app that allows users to create personalized Polaroid-style photos. It lets users create personalized Polaroid photos by adding frames and stickers. Users can upload or take a photo, customize it with frames and stickers, and download the final image easily.",

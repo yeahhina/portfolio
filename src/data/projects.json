@@ -1,5 +1,26 @@
 [
   {
+    "name": "Piece Together",
+    "description": "A full-stack web application designed for project management of game development teams. The platform provides project managers and team members a workspace to manage tasks, collaborate, track bugs, organise game assets, and monitor project progress using industry-standard tools such as Kanban boards.",
+    "technologies_used": [
+      "React, Node.js",
+      "Express.js, REST API",
+      "MySQL, phpMyAdmin",
+      "Git & GitHub",
+      "Agile Development"
+    ],
+    "links": [
+      {
+        "name": "GitHub",
+        "link": "https://github.com/yeahhina/piece-together"
+      },
+      {
+        "name": "Learn More",
+        "link": "/data/piecetogether.md"
+      }
+    ]
+  },
+  {
     "name": "SEAtS",
     "description": "A dynamic React-based web application designed to automate seating arrangements for business events. Built in an Agile environment with continuous feedback and iterations, the app automatically generates seating plans based on two main constraints: avoiding repeat pairings from past events and ensuring VIPs are assigned to designated tables.",
     "technologies_used": [
@@ -45,9 +66,7 @@
     "technologies_used": [
       "Kotlin",
       "Jetpack Compose, Material Design 3",
-      "Room Database",
-      "Android Studio",
-      "Material Design 3"
+      "Android Studio"
     ],
     "links": [
       {

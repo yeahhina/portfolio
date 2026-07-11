@@ -19,7 +19,7 @@ The primary aim of the project was to develop a project management platform tail
 
 ## User Interface
 
-The user interface was built initially on Figma, and then further through Agile sprint and usability studies.
+The user interface was built initially on Figma, and then refined further through Agile sprint and usability studies.
 
 User testing sessions were conducted to gather qualitative feedback on navigation, task workflows, and overall usability. The findings were then used to inform design improvements, ensuring the final application was intuitive, responsive, and suitable for real-world software development teams.
 

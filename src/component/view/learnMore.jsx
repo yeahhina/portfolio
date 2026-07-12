@@ -26,6 +26,10 @@ function LearnMore() {
   const file = location.state || {};
 
   useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
+  useEffect(() => {
     if (!file.mdFile) {
       setIsLoading(false);
       return;

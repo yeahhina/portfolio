@@ -22,7 +22,7 @@
   },
   {
     "name": "SEAtS",
-    "description": "A dynamic React-based web application designed to automate seating arrangements for business events. Built in an Agile environment with continuous feedback and iterations, the app automatically generates seating plans based on two main constraints: avoiding repeat pairings from past events and ensuring VIPs are assigned to designated tables.",
+    "description": "A React-based web application designed to automate seating arrangements for business events. Built in an Agile environment with continuous feedback and iterations, the app automatically generates seating plans based on two main constraints: avoiding repeat pairings from past events and ensuring VIPs are assigned to designated tables.",
     "technologies_used": [
       "React, Node.js",
       "Javascript, CSS",
@@ -42,7 +42,7 @@
   },
   {
     "name": "GeoQuest",
-    "description": "A location-based mobile application inspired by geocaching that allows users to discover and unlock virtual caches by visiting real-world locations. The app uses GPS and mobile sensors to create an interactive treasure hunt experience, enabling users to locate caches, unlock them when within range, and track their progress through persistent data storage. ",
+    "description": "A location-based mobile application inspired by geocaching. It allows users to discover and unlock virtual caches by visiting real-world locations. The app uses GPS and mobile sensors to create an interactive treasure hunt experience, enabling users to locate caches, unlock them when within range, and track their progress through persistent data storage. ",
     "technologies_used": [
       "React Native",
       "React Native Paper",

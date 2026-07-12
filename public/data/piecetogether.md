@@ -29,8 +29,6 @@ These are some screenshots of the application:
 
 ![piece-together-projects.png](https://i.postimg.cc/0NJWmqRs/Screenshot-2026-07-11-113447.png)
 
-![piece-together-home.png](https://i.postimg.cc/0NJWmqRs/Screenshot-2026-07-11-113447.png)
-
 ![piece-together-tasks.png](https://i.postimg.cc/Pr91DvtW/Screenshot-2026-07-11-113523.png)
 
 ![piece-together-members.png](https://i.postimg.cc/D0D41R3D/Screenshot-2026-07-11-113542.png)

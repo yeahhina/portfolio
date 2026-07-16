@@ -37,3 +37,4 @@ These are some screenshots of the application:
 
 [Front-End GitHub](https://github.com/yeahhina/piece-together-front-end)
 [Back-End GitHub](https://github.com/yeahhina/piece-together-back-end)
+[Documentation](https://drive.google.com/drive/folders/1_320LlweJ6MBO1iFynB3OxHeaUWHhcFM?usp=sharing)

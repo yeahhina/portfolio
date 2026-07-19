@@ -34,4 +34,4 @@ These are some screenshots of the application:
 
 ![geoquest2.png](https://i.postimg.cc/rwWZjvpZ/Screenshot-2026-07-08-181103.png)
 
-[GitHub](https://github.com/yourusername/GeoQuest)
+[GitHub](https://github.com/yeahhina/GeoQuest)
